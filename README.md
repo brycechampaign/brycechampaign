@@ -1,4 +1,13 @@
-### Hi there 👋
+### About Me 👋
+My name is Bryce Champaign and I'm a full-stack software engineer. I'm passionate about making engaging and intuitive frontends as well as efficient and scalable backends. I am well versed in Node.js, React, SQL and NoSQL databases.
+
+### Useful Links 🔗
+My [portfolio site](brycechampaign.herokuapp.com)
+
+My [LinkedIn profile](www.linkedin.com/in/bryce-champaign)
+
+### Contact Me 📫
+Email: brycechampaign@gmail.com
 
 <!--
 **brycechampaign/brycechampaign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
