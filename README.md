@@ -1,5 +1,5 @@
 ### About Me 👋
-My name is Bryce Champaign and I'm a full-stack software engineer. I'm passionate about making engaging and intuitive frontends as well as efficient and scalable backends. I am well versed in Node.js, React, SQL and NoSQL databases. I am self-driven and looking for new opportunities.
+My name is Bryce Champaign and I'm a full-stack software engineer. I'm passionate about making engaging and intuitive frontends as well as efficient and scalable backends. I am well versed in Node.js, React, React Native, SQL and NoSQL databases. I am self-driven and looking for new opportunities.
 
 ### Useful Links 🔗
 My [portfolio site](brycechampaign.herokuapp.com)
