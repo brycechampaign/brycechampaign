@@ -4,9 +4,6 @@ My name is Bryce Champaign and I'm a full-stack software engineer. I'm passionat
 ### Useful Links 🔗
 My [LinkedIn profile](https://www.linkedin.com/in/bryce-champaign)
 
-### Contact Me 📫
-Email: brycechampaign@gmail.com
-
 <!--
 **brycechampaign/brycechampaign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
